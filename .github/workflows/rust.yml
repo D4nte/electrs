@@ -8,7 +8,7 @@ jobs:
       matrix:
         toolchain: [
           "stable",
-          "1.38.0" # MRSV
+          "1.34.0" # MRSV
         ]
     runs-on: ubuntu-latest
 
